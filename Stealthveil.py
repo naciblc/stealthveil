@@ -285,12 +285,12 @@ def main():
     print("""
 Stealthveil & Network Interface IP & MAC Address Manager
 ---------------------
-1)MAC CHANGE
-2)IP CHANGE
-3)MAC ADRESS BACKUPS
-4)IP ADRESS BACKUPS
-5)CLEAR BACKUPS 
-6)EXIT
+1) Change MAC Address
+2) Change IP Address
+3) View MAC Address Backups
+4) View IP Address Backups
+5) Clear All Backups
+6) Exit
 ---------------------""")
     while True:
         try:
